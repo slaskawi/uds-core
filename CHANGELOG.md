@@ -2,6 +2,28 @@
 
 All notable changes to this project will be documented in this file.
 
+## [0.34.0](https://github.com/defenseunicorns/uds-core/compare/v0.33.1...v0.34.0) (2025-01-06)
+
+
+### Features
+
+* add additional outputs to `debug-output` action ([#1073](https://github.com/defenseunicorns/uds-core/issues/1073)) ([29f12b4](https://github.com/defenseunicorns/uds-core/commit/29f12b4ff2aee2678d76521887384ce46746782a))
+
+
+### Bug Fixes
+
+* attempt fix token permissions ([#1155](https://github.com/defenseunicorns/uds-core/issues/1155)) ([5a46e41](https://github.com/defenseunicorns/uds-core/commit/5a46e41e5bdce486c800654822232e2af9f3af94))
+* validate unique names for monitors ([#666](https://github.com/defenseunicorns/uds-core/issues/666)) ([80e28c1](https://github.com/defenseunicorns/uds-core/commit/80e28c17769e2bd93e6f42d9ce4fd7a29106e7ee))
+
+
+### Miscellaneous
+
+* **deps:** update loki memcached to v1.6.34 ([#1148](https://github.com/defenseunicorns/uds-core/issues/1148)) ([8bbf6b3](https://github.com/defenseunicorns/uds-core/commit/8bbf6b3d973b28d5d2edd044baf2ae8ae2d0cd20))
+* **deps:** update pepr to v15.3.0 ([#1151](https://github.com/defenseunicorns/uds-core/issues/1151)) ([153b7e1](https://github.com/defenseunicorns/uds-core/commit/153b7e1739b1d68fefd1a635843ed27c4a1af8fe))
+* **deps:** update support-deps ([#1147](https://github.com/defenseunicorns/uds-core/issues/1147)) ([cf1a60b](https://github.com/defenseunicorns/uds-core/commit/cf1a60b7d8d81a7936d102cb67414c48aae3a953))
+* **deps:** update velero ([#1150](https://github.com/defenseunicorns/uds-core/issues/1150)) ([29ee12b](https://github.com/defenseunicorns/uds-core/commit/29ee12bba57f4c75e195cbb66a89477ef3d49c7e))
+* **docs:** update Flavor Specific Development Notes ([#1153](https://github.com/defenseunicorns/uds-core/issues/1153)) ([bba5a71](https://github.com/defenseunicorns/uds-core/commit/bba5a710f1b9f8bf92039f00a382a28578846727))
+
 ## [0.33.1](https://github.com/defenseunicorns/uds-core/compare/v0.33.0...v0.33.1) (2024-12-20)
 
 
